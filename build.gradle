@@ -4,7 +4,9 @@ buildscript {
         google()
         jcenter()
     }
-    dependencies {
+    dependencies {  /* Android me indica que esta versión está obsoleta, pero si
+                        actualizo, no me crea el recurso R de mi proyecto por lo
+                        que dejo esta versión de gradle                         */
         classpath 'com.android.tools.build:gradle:3.2.1'
     }
 }

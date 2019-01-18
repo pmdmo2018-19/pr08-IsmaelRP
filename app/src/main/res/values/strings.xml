@@ -1,4 +1,5 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Toolbar</string>
     <string name="main_latin_ipsum" translatable="false" tools:ignore="Typos">Lorem ipsum
         dolor sit amet, consectetur adipiscing elit. Morbi at lorem id velit imperdiet volutpat id eget odio. Nunc ut sodales turpis, id pretium felis. Cras at orci vel magna lacinia fringilla. Nulla tempus aliquam velit eget placerat. Aliquam vel justo ut eros tincidunt egestas a ac turpis. Etiam vitae velit id lorem egestas feugiat non ac ante. Proin in odio pulvinar, fermentum risus ac, ornare sapien. Aliquam efficitur nisl id tellus porta convallis. Nulla at pretium mauris, vitae dignissim ligula. In cursus magna est, ac posuere mauris ullamcorper ut. Pellentesque felis nunc, lacinia sit amet vestibulum eu, pretium eu justo. Aenean lectus lorem, tempor at sapien volutpat, dictum dapibus ipsum. Sed maximus fringilla diam lacinia interdum.
 
@@ -13,4 +14,21 @@ Phasellus aliquam aliquam ante eget iaculis. Praesent ultrices feugiat sem, non 
     <string name="main_chiquito_ipsum" translatable="false">Lorem fistrum no te digo trigo por no llamarte Rodrigor hasta luego Lucas torpedo ese que llega ese hombree tiene musho peligro a gramenawer al ataquerl. No puedor llevame al sircoo caballo blanco caballo negroorl no te digo trigo por no llamarte Rodrigor apetecan. Caballo blanco caballo negroorl se calle ustée ese hombree papaar papaar. No te digo trigo por no llamarte Rodrigor ahorarr por la gloria de mi madre benemeritaar de la pradera te voy a borrar el cerito benemeritaar fistro a peich. Papaar papaar pupita diodeno me cago en tus muelas por la gloria de mi madre fistro pupita. Quietooor diodeno ese hombree por la gloria de mi madre pecador de la pradera quietooor.
 
 Ahorarr ese que llega a wan diodenoo ese pedazo de te va a hasé pupitaa te voy a borrar el cerito a peich. Quietooor se calle ustée benemeritaar torpedo ahorarr. Por la gloria de mi madre al ataquerl no te digo trigo por no llamarte Rodrigor amatomaa amatomaa no te digo trigo por no llamarte Rodrigor ahorarr. Sexuarl condemor a peich a wan de la pradera ahorarr llevame al sircoo torpedo. A peich mamaar quietooor pecador apetecan jarl hasta luego Lucas te va a hasé pupitaa va usté muy cargadoo ese pedazo de te voy a borrar el cerito. Apetecan me cago en tus muelas mamaar pupita. A peich fistro sexuarl no puedor está la cosa muy malar ahorarr. Fistro al ataquerl me cago en tus muelas pecador ahorarr no puedor benemeritaar apetecan. Apetecan de la pradera a gramenawer apetecan diodenoo la caidita.</string>
+    <string name="mainFragment_title">Lorem</string>
+    <string name="secondFragment_title">Details</string>
+    <string name="txtLorem2_text">This is the details fragment</string>
+    <string name="mnuSettings_text">Settings</string>
+    <string name="fab2_event_text">Details saved successfully</string>
+    <string name="loremType">loremType</string>
+    <string name="loremTitle">Lorem type</string>
+    <string name="thirdFragment_title">Settings</string>
+    <string-array name="loremValues">
+        <item>lat</item>
+        <item>chiq</item>
+    </string-array>
+    <string name="loremDefault">lat</string>
+    <string-array name="loremEntries">
+        <item>Latin</item>
+        <item>Chiquito</item>
+    </string-array>
 </resources>
